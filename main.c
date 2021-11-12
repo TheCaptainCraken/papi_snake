@@ -125,3 +125,8 @@ bool CheckDeath(SnakeHead snake){
     //else he's gucci
     return false;
 }
+//:)//
+// Owo//
+// :O
+// XD
+//O_o
